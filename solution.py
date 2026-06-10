@@ -3,6 +3,7 @@
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
 Student ID: 2A202600602
+Student Email: 26ai.dangnn@vinuni.edu.vn
 Name: Nguyễn Nhựt Đăng
 
 Nhiem vu:

@@ -1,6 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
 **Student ID:** 2A202600602
+**Student Email:** 26ai.dangnn@vinuni.edu.vn
 **Name:** Nguyễn Nhựt Đăng
 **Date:** 10/06/2026
 

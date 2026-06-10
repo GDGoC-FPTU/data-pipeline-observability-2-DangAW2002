@@ -1,6 +1,7 @@
 # Day 10 Lab: Data Pipeline & Data Observability
 
 **Student ID:** 2A202600602  
+**Student Email:** 26ai.dangnn@vinuni.edu.vn  
 **Name:** Nguyễn Nhựt Đăng  
 
 ---
